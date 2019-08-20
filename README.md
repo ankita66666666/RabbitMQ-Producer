@@ -1,6 +1,6 @@
 #Rabbit-Mq Producer
 
-spring-boot application for rabbit-mq producer to produce messages and pass it through exchange.
+spring-boot application for rabbit-mq producer 
 
 -> Used AMQP template 
 
